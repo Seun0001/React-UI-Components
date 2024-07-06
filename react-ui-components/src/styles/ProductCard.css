@@ -1,0 +1,22 @@
+.product-card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin: 1rem;
+  width: 200px;
+  text-align: center;
+  background-color: white;
+}
+
+.product-card button {
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  width: 100%;
+}
+
+.product-card button:hover {
+  background-color: #0056b3;
+}

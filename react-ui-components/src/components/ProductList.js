@@ -57,7 +57,7 @@ const ProductList = () => {
       description: "Elegant shoes perfect for business meetings.",
       price: 99,
       imageUrl: BusinessShoesImage,
-      stock: "In Stock"
+      stock: "In Stock",
     },
   ];
 
